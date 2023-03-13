@@ -7,7 +7,7 @@ $ npm install
 ## Setup database
 
 create .env file and put in
-DATABASE_URL="postgresql://<username>:<password>@<host>:5432/<dbname>?schema=public"
+DATABASE_URL="postgresql://username:password@host:5432/dbname?schema=public"
 
 ```bash
 $ npx prisma db push
