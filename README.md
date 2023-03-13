@@ -26,4 +26,3 @@ $ npm run start
 - create new data with createEmployee mutation, only enter username, fullname and salary, id will be auto generated
 - read data with employees or employee (id) query
 - update or delete data with updateEmployee and deleteEmployee mutation
-# payroll
